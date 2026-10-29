@@ -5,7 +5,7 @@ Give players something worth watching while they connect. A clean, modern loadin
 
 ## :sparkles: Features
 - :busts_in_silhouette: **Meet the Team**: staff cards with avatars, roles and custom banners.
-- :frame_photo: **Gallery**: show off your best screenshots.
+- 📷 **Gallery**: show off your best screenshots.
 - :scroll: **Rules & Updates**: sliding panels to keep players informed.
 - :musical_note: **Music Player**: shuffle, skip, seek, volume and album art.
 - :link: **Social Cards**: Discord, Instagram, YouTube, TikTok and Tebex pop-outs.
